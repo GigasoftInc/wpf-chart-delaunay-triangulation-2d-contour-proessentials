@@ -4,7 +4,7 @@ A ProEssentials v10 WPF .NET 8 demonstration of Delaunay triangulation contour
 rendering using PesgoWpf — the ProEssentials scientific graph object for
 continuous numeric X and Y axes.
 
-![ProEssentials Delaunay Triangulation Contour Chart](https://gigasoft.com/wpf-chart/screenshots/screen147.png)
+![ProEssentials Delaunay Triangulation Contour Chart](docs/screen147.png)
 
 ➡️ [gigasoft.com/examples/147](https://gigasoft.com/examples/147)
 
